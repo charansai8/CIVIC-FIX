@@ -1,0 +1,6 @@
+{
+  "name": "CivicFix - Civic Infrastructure Reporting & Resolution Platform",
+  "description": "High-contrast civic infrastructure reporting and resolution platform for citizens and municipal administrators with multi-language support, interactive GIS map, 2FA, and AI assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
